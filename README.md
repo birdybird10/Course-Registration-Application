@@ -1,1 +1,1 @@
-# PersonalProjects
+This project is a Course Registration Application coded using Java with a focus on Objected-Oriented Programming. There can be two types of users: a student and an administrator. The student can view/enroll/withdraw from various courses. The administrator can manage and generate reports on courses. This project utilizes serialization to load/save a Course Directory. 
