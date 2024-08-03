@@ -3,4 +3,6 @@ There is also a folder containing a diagram depicting the relationship between t
 
 Example interaction:
 
-<img width="582" alt="Screenshot 2024-08-02 at 6 15 52 PM" src="https://github.com/user-attachments/assets/37bc27ac-329c-4c75-80ef-0a90d954af1f">
+<img width="577" alt="Screenshot 2024-08-02 at 6 15 52 PM" src="https://github.com/user-attachments/assets/c84b1423-817e-4879-9e8b-4f0f0ccae9b8">
+
+<img width="552" alt="Screenshot 2024-08-02 at 8 11 18 PM" src="https://github.com/user-attachments/assets/b0de374d-a56b-4ef6-8023-1b1e13deab59">
