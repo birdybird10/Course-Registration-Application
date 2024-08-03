@@ -5,6 +5,8 @@ Example interaction (Admin options):
 
 <img width="577" alt="Screenshot 2024-08-02 at 6 15 52 PM" src="https://github.com/user-attachments/assets/c84b1423-817e-4879-9e8b-4f0f0ccae9b8">
 
+
+
 Example interaction (Admin registers a student and student logs in):
 
 <img width="552" alt="Screenshot 2024-08-02 at 8 11 18 PM" src="https://github.com/user-attachments/assets/b0de374d-a56b-4ef6-8023-1b1e13deab59">
