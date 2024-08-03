@@ -1,4 +1,4 @@
-This project is a Course Registration Application coded using Java with a focus on Objected-Oriented Programming. There can be two types of users: a student and an administrator. The student can view/enroll/withdraw from various courses. The administrator can manage and generate reports on courses. This project utilizes serialization to load/save a Course Directory. 
+This project is a Course Registration Application coded using Java with a focus on Objected-Oriented Programming. There can be two types of users: an administrator and a student. The administrator can manage and generate reports on courses and register students. The student can view/enroll/withdraw from various courses. This project also utilizes serialization to load/save a Course Directory. 
 There is also a folder containing a diagram depicting the relationship between the different classes (Student, Admin, CourseDirectory, etc.) as well as a document explaining the way in which various OOP practices were utilized. 
 
 Example interaction (Admin options):
